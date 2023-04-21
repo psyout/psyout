@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Felipe Gonzalez</h1>
 <h3 align="left">Crafting Digital Experiences: Meet Chile's Talented Front-end Developer</h3>
 
-🌱 I’m currently learning **Electron.js and keep improving my React skills**
+🌱 I’m currently learning **Electron.js and also improving my React skills**
 
 👨‍💻 All of my projects are available at [https://felipegonzalez.ca](https://felipegonzalez.ca)
 
