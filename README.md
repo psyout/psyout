@@ -9,7 +9,7 @@
 
 📫 How to reach me **fgonzalezcare@gmail.com**
 
-📄 Know about my experiences [[https://felipegonzalez.ca/felipe_gonzalez.pdf](https://felipegonzalez.io/felipe-gonzalez-resume.pdf)](https://felipegonzalez.io/felipe-gonzalez-resume.pdf)
+📄 Know about my experiences [[https://felipegonzalez.io/felipe-gonzalez-resume.pdf](https://felipegonzalez.io/felipe-gonzalez-resume.pdf)]
 
 ⚡ Fun fact **I'm always tiding the kitchen**
 
